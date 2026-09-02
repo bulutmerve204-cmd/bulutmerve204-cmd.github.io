@@ -8,8 +8,8 @@ Nevşehir Hacı Bektaş Veli Üniversitesi Moleküler Biyoloji ve Genetik 2. sı
 
 ## 🔬 Araştırma İlgi Alanları
 
-* ** Kuantum & Biyoinformatik & Biyo-imza Analizi:** Ötegezegen ve uzay biyolojisi verilerinde yapay zekâ destekli biyolojik iz tespiti.
-* ** Biyomedikal Veri Doğrulama:** Biyomedikal literatür ve klinik verilerin doğal dil işleme modelleriyle analizi.
+* **Kuantum & Biyoinformatik & Biyo-imza Analizi:** Ötegezegen ve uzay biyolojisi verilerinde yapay zekâ destekli biyolojik iz tespiti.
+* **Biyomedikal Veri Doğrulama:** Biyomedikal literatür ve klinik verilerin doğal dil işleme modelleriyle analizi.
 * **Uzay Biyolojisi & Biyoreaktör Sistemleri:** Mikroçekim koşullarında biyolojik sistemlerin adaptasyonu.
 
 ---
