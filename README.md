@@ -1,6 +1,6 @@
 # bulutmerve204-cmd.github.io# Merve Bulut
 
-**Moleküler Biyoloji ve Genetik Öğrencisi | Biyoinformatik & Yapay Zekâ Araştırmacısı**
+** Moleküler Biyoloji ve Genetik Öğrencisi | Biyoinformatik & Yapay Zekâ Araştırmacısı **
 
 Nevşehir Hacı Bektaş Veli Üniversitesi Moleküler Biyoloji ve Genetik 2. sınıf öğrencisiyim. Biyolojik altyapımı veri bilimi, kuantum hesaplama ve biyoinformatik araçlarıyla birleştirerek "ıslak" (wet lab) ve "kuru" (dry lab) laboratuvar süreçleri arasında köprü kurmayı hedefliyorum.
 
